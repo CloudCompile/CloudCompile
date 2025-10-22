@@ -1,6 +1,6 @@
 # Hey there, I’m CJ 👋
 
-I’m a 7th-grade coding enthusiast obsessed with HTML/JS and dreaming of building the ultimate AI someday. When I’m not coding, you’ll find me:
+I’m a 10th-grade coding enthusiast obsessed with HTML/JS and dreaming of building the ultimate AI someday. When I’m not coding, you’ll find me:
 
 - 🕹 Playing **TOTK** and **BOTW**  
 - 📚 Reading anime and books like *SAO*, *Apothecary Diaries*, *JJK*, *Freiren*, and *Medalist*  
@@ -10,7 +10,7 @@ I’m a 7th-grade coding enthusiast obsessed with HTML/JS and dreaming of buildi
 ---
 
 ## 💻 Coding Stuff
-- **Languages I rock:** HTML, JavaScript (soon Python 🐍)  
+- **Languages I rock:** HTML, JavaScript, TypeScript (soon Python 🐍)  
 - **Current projects:** Websites, small games, AI experiments  
 - **Goal:** Build an AI that does EVERYTHING  
 
@@ -66,11 +66,13 @@ I’m a 7th-grade coding enthusiast obsessed with HTML/JS and dreaming of buildi
 ---
 
 ## 🎌 Anime of the Day
-> <!-- ANIME_QUOTE -->
+Apothecary Diaries
+
+<img width="377" height="218" alt="image" src="https://github.com/user-attachments/assets/86762eef-f850-474c-828c-af08e5ef06d8" />
+
 
 ---
 
 ## 📫 Connect with me
-- [GitHub](https://github.com/cloudcompile)  
-- Discord: `CJ#XXXX`  
-- Twitter/Other socials  
+- [GitHub](https://github.com/cloudcompile)   
+-  christopherhauser1234@gmail.com
