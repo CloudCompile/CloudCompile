@@ -65,10 +65,6 @@ I’m a 10th-grade coding enthusiast obsessed with HTML/JS and dreaming of build
 
 ---
 
-## 🎌 Anime of the Day
-Apothecary Diaries
-
-<img width="377" height="218" alt="image" src="https://github.com/user-attachments/assets/86762eef-f850-474c-828c-af08e5ef06d8" />
 
 
 ---
