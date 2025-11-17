@@ -1,6 +1,6 @@
 # Hey there, I’m CJ 👋
 
-I’m a 10th-grade coding enthusiast obsessed with HTML/JS and dreaming of building the ultimate AI someday. When I’m not coding, you’ll find me:
+I’m a 8th-grade coding enthusiast obsessed with HTML/JS and dreaming of building the ultimate AI someday. When I’m not coding, you’ll find me:
 
 - 🕹 Playing **TOTK** and **BOTW**  
 - 📚 Reading anime and books like *SAO*, *Apothecary Diaries*, *JJK*, *Freiren*, and *Medalist*  
