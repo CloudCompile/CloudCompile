@@ -1,74 +1,44 @@
-# Hey there, I’m CJ 👋
-
-I’m a 8th-grade coding enthusiast obsessed with HTML/JS and dreaming of building the ultimate AI someday. When I’m not coding, you’ll find me:
-
-- 🕹 Playing **TOTK** and **BOTW**  
-- 📚 Reading anime and books like *SAO*, *Apothecary Diaries*, *JJK*, *Freiren*, and *Medalist*  
-- 🎵 Vibing to **phonk**  
-- 🎾 Hitting the tennis courts (trying not to get roasted by football jerks in art class)  
+# Hi 👋, I’m CJ / CloudCompile  
+## Web-Dev Student · Anime Nerd · Code & Game Lover  
 
 ---
 
-## 💻 Coding Stuff
-- **Languages I rock:** HTML, JavaScript, TypeScript (soon Python 🐍)  
-- **Current projects:** Websites, small games, AI experiments  
-- **Goal:** Build an AI that does EVERYTHING  
+### ⚡ About Me  
+- 🎯 I’m currently learning **Python** (next stop: building my “everything-AI”).  
+- 💻 I mostly tinker by making small websites (since budget is real).  
+- 🎮 When I’m not coding I’m either playing **TOTK**, **BOTW**, or watching anime like *SAO*, *JJK*, *Apothecary Diaries*, *Freiren*, *Medalist*.  
+- 🎶 Huge phonk fan (yes, I code to beats).  
 
 ---
 
-## 🌟 Fun Facts
-- Buffalo Bills fan 🦬  
-- Full-time anime critic, part-time web wizard  
-- I judge bad CSS like it’s a personal attack  
+### 🚀 What I Do / What I’m Working On  
+- Building small web-projects / experiments.  
+- Exploring more about web dev / maybe some backend stuff later.  
+- Learning Python / basic AI / somewhere down the road — that “ultimate AI”.  
+- Always open to collabs or suggestions 👇  
 
 ---
 
-## ⚡ Stats & Badges
-
-### GitHub Stats
-![CJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudcompile&show_icons=true&theme=radical)
-
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloudcompile&theme=radical)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcompile&layout=compact&theme=radical)
-
-### Fun Badges
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Phonk Lover](https://img.shields.io/badge/Phonk-000000?style=for-the-badge&logo=spotify&logoColor=green)
+### 🧠 Random Anime Quotes / Mottos I Like  
+| Quote | Character & Anime |
+|---|---|
+| "A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart." | Edward Elric — Fullmetal Alchemist: Brotherhood |
+| "If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be." | Naruto Uzumaki — Naruto |
+| "The world is not beautiful; therefore it is." | Kino — Kino's Journey |
+| "No matter how deep the night, it always turns to day, eventually." | Brook — One Piece |
+| "Being hurt inevitably breeds feelings of hatred towards your attacker. But when we hurt others, we have to deal with their hatred for us, and our own feelings of guilt. Knowing what it feels like to be hurt is exactly why we try to be kind to others." | Naruto Uzumaki — Naruto |
+| "The world is cruel, but also very beautiful." | Mikasa Ackerman — Attack on Titan |
+| "Life is not a game of luck. If you wanna win, work hard." | Sora — No Game No Life |
+| "You can’t always hold on to the things that are important. By letting them go, we gain something else." | Fullmetal Alchemist (General) |
+| "Don’t give up — there’s no shame in falling down! The true shame is to not stand up again!" | Shintarō Midorima — Kuroko's Basketball |
+| "Sometimes, the things that matter the most are right in front of you." | Fullmetal Alchemist (General) |
+| "A hero isn’t the one who never falls. It’s the one who gets up again and again, never losing sight of their dream." | My Hero Academia (General) |
 
 ---
 
-## 🌞 Light/Dark Mode Emoji Fun
-<p align="center">
-  <img src="https://img.shields.io/badge/Light%20Mode-🌞-yellow?style=for-the-badge" alt="Light Mode">
-  <img src="https://img.shields.io/badge/Dark%20Mode-🌙-blue?style=for-the-badge" alt="Dark Mode">
-</p>
+### 📫 Contact / Find Me  
+- GitHub: [cloudcompile](https://github.com/CloudCompile)  
+- prisimai@outlook.com 
 
 ---
 
-## 🔥 Currently Coding
-> Projects are chaotic and alive:  
-- Personal AI experiments 🤖  
-- Tiny games & websites 💻  
-- JS hacks that break things 💥  
-
----
-
-## 🕵️‍♂️ Easter Eggs
-- Hover over my badges — secrets may be hidden 👀  
-- Pinned repos might contain “serious” AI projects that are actually memes  
-- Maybe the README itself is hiding a secret… maybe 😏  
-
----
-
-
-
----
-
-## 📫 Connect with me
-- [GitHub](https://github.com/cloudcompile)   
--  christopherhauser1234@gmail.com
