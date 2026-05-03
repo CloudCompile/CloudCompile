@@ -1,183 +1,323 @@
 <!--
-  ╔══════════════════════════════════════════════════════╗
-  ║         cloudcompile · GitHub Profile README         ║
-  ╚══════════════════════════════════════════════════════╝
+███████████████████████████████████████████████████████████
+██                                                       ██
+██   you found the source. congrats, you're a nerd.     ██
+██   (so am i, it's fine)                               ██
+██                                                       ██
+███████████████████████████████████████████████████████████
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:0d1b4b,100:0a0a0f&height=280&section=header&text=cloudcompile&fontSize=72&fontColor=c084fc&fontAlignY=45&desc=↯%20building%20things%20at%20the%20edge%20of%20what%20works&descSize=15&descAlignY=65&descColor=818cf8&animation=fadeIn&stroke=6d28d9&strokeWidth=1" width="100%" />
+```
+ ██████╗██╗      ██████╗ ██╗   ██╗██████╗
+██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗
+██║     ██║     ██║   ██║██║   ██║██║  ██║
+██║     ██║     ██║   ██║██║   ██║██║  ██║
+╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝
+ ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝
+
+ ██████╗ ██████╗ ███╗   ███╗██████╗ ██╗██╗     ███████╗
+██╔════╝██╔═══██╗████╗ ████║██╔══██╗██║██║     ██╔════╝
+██║     ██║   ██║██╔████╔██║██████╔╝██║██║     █████╗
+██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██║██║     ██╔══╝
+╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ██║███████╗███████╗
+ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:0f0a2e,50:1a0533,75:0d1b4b,100:050510&height=3&section=header" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=↯+building+things+at+the+edge+of+what+works;contributor+%40+Pollinations+·+Lumiverse;author+of+FastVM+%26+SillyBench;student+by+day+·+deploying+at+2am;%5B+LLM+whisperer+·+self-host+everything+%5D)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:0d1b4b,50:1a0533,75:0f0a2e,100:050510&height=3&section=footer" width="100%"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=818CF8&center=true&vCenter=true&width=580&lines=AI+%2B+web+dev+%2B+whatever+I+feel+like+building;contributor+%40+Pollinations+%26+Lumiverse;SillyBench+%E2%80%94+open-source+AI+roleplay+benchmark;student+during+the+day%2C+deploying+at+2am)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="55%">
+<td width="52%" valign="top">
 
-### `// identity.json`
+### `> whoami`
 
-```jsonc
-{
-  "handle":    "cloudcompile",
-  "role":      "student → builder",
-  "timezone":  "up too late",
-  "focus": [
-    "AI systems",
-    "web tooling",
-    "self-hosted infra"
-  ],
-  "owns":      ["FastVM", "SillyBench"],
-  "loves":     ["Lumiverse", "Pollinations"],
-  "currently": "making LLMs do things",
-  "anime":     ["Frieren", "JJK", "SAO",
-                 "Medalist", "Apothecary Diaries"],
-  "games":     ["TOTK", "BOTW"],
-  "irl":       ["tennis", "reading"]
+```typescript
+interface Developer {
+  handle:  "cloudcompile"
+  role:    "student → builder → ???"
+  env:     "chromebook + browser + willpower"
+  owns:    ["FastVM", "SillyBench"]
+  loves:   ["Lumiverse", "Pollinations"]
+  focus:   ["AI systems", "self-hosted infra",
+            "web tooling", "agent pipelines"]
+  anime:   ["Frieren ✦", "JJK", "SAO",
+            "Medalist", "Apothecary Diaries"]
+  games:   ["TOTK", "BOTW"]
+  irl:     ["tennis 🎾", "reading"]
+  status:  "making LLMs do things they shouldn't"
+  secret?: "check the page source 👀"
 }
 ```
 
-</td>
-<td valign="top" width="45%">
+> *"any sufficiently advanced debug session*
+> *is indistinguishable from magic"*
 
-<!-- github-profile-summary-cards — much more reliable than readme-stats -->
+</td>
+<td width="48%" valign="top">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudcompile&theme=2077" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cloudcompile&theme=2077" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cloudcompile&theme=2077" width="48%"/>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cloudcompile&theme=2077" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cloudcompile&theme=2077&utcOffset=-5" width="49%"/>
+</div>
 
 </td>
 </tr>
 </table>
 
----
-
 <br/>
 
-## ⬡ Streak
+---
+
+### 🐍 the snake has been eating my commits since day one
 
 <div align="center">
 
-<!-- streak-stats has its own reliable hosted instance -->
-<img src="https://streak-stats.demolab.com?user=cloudcompile&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=c084fc&fire=818cf8&currStreakLabel=c084fc&sideLabels=818cf8&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0" width="60%"/>
+> **setup:** go to your profile repo → Actions → new workflow → paste the snake action yaml (see below) → it auto-generates this every day
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloudcompile/cloudcompile/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cloudcompile/cloudcompile/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cloudcompile/cloudcompile/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<details>
+<summary><code>▶ click: snake GitHub Action setup</code></summary>
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 </div>
 
----
-
 <br/>
 
-## ⬡ Projects
+---
+
+### ⬡ Projects
 
 <div align="center">
+
 <table>
 <tr>
-
 <td align="center" width="33%">
 
-### 🔧 FastVM
-**Author & Maintainer**
+**🔧 FastVM**
+`author · maintainer`
 
 [![FastVM](https://github-readme-stats.vercel.app/api/pin/?username=cloudcompile&repo=fastvm&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0)](https://github.com/cloudcompile/fastvm)
 
 </td>
-
 <td align="center" width="33%">
 
-### 🌸 Lumiverse
-**Contributor**
+**🌸 Lumiverse**
+`contributor · believer`
 
 [![Lumiverse](https://github-readme-stats.vercel.app/api/pin/?username=prolix-oc&repo=Lumiverse&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=818cf8&text_color=e2e8f0)](https://github.com/prolix-oc/Lumiverse)
 
 </td>
-
 <td align="center" width="33%">
 
-### 🌻 Pollinations
-**Contributor**
+**🌻 Pollinations**
+`contributor · power user`
 
 [![Pollinations](https://github-readme-stats.vercel.app/api/pin/?username=pollinations&repo=pollinations&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0)](https://github.com/pollinations/pollinations)
 
 </td>
-
 </tr>
 </table>
-</div>
 
----
+</div>
 
 <br/>
 
-## ⬡ Stack
+---
+
+### ⬡ Stack
 
 <div align="center">
 
-#### Languages
+**↯ languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=c084fc)
 ![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=818cf8)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=for-the-badge&logo=html5&logoColor=c084fc)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=for-the-badge&logo=css3&logoColor=818cf8)
+![Bash](https://img.shields.io/badge/Bash-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c084fc)
 
-#### Infrastructure & Tools
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-0d0d1a?style=for-the-badge&logo=cloudflare&logoColor=c084fc)
+**↯ infra & deployment**
+
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-0d0d1a?style=for-the-badge&logo=cloudflare&logoColor=c084fc)
 ![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=818cf8)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0d1a?style=for-the-badge&logo=huggingface&logoColor=c084fc)
-![Google Colab](https://img.shields.io/badge/Google_Colab-0d0d1a?style=for-the-badge&logo=googlecolab&logoColor=818cf8)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=for-the-badge&logo=nodedotjs&logoColor=c084fc)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d1a?style=for-the-badge&logo=vercel&logoColor=818cf8)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d1a?style=for-the-badge&logo=vercel&logoColor=c084fc)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0d1a?style=for-the-badge&logo=huggingface&logoColor=818cf8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d1a?style=for-the-badge&logo=githubactions&logoColor=c084fc)
+![ngrok](https://img.shields.io/badge/ngrok-0d0d1a?style=for-the-badge&logo=ngrok&logoColor=818cf8)
 
-#### AI & APIs
+**↯ AI & APIs**
+
 ![Claude API](https://img.shields.io/badge/Claude_API-0d0d1a?style=for-the-badge&logo=anthropic&logoColor=c084fc)
-![OpenAI compat](https://img.shields.io/badge/OpenAI_compat-0d0d1a?style=for-the-badge&logo=openai&logoColor=818cf8)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-0d0d1a?style=for-the-badge&logo=buffer&logoColor=c084fc)
+![Pollinations](https://img.shields.io/badge/Pollinations_AI-0d0d1a?style=for-the-badge&logo=buffer&logoColor=818cf8)
+![OpenAI compat](https://img.shields.io/badge/OpenAI_compat-0d0d1a?style=for-the-badge&logo=openai&logoColor=c084fc)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0d0d1a?style=for-the-badge&logo=cloudinary&logoColor=818cf8)
 
 </div>
+
+<br/>
+
+---
+
+### ⬡ Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudcompile&bg_color=050510&color=818cf8&line=6d28d9&point=c084fc&area=true&area_color=1a0533&hide_border=true&radius=6&custom_title=cloudcompile%27s+contribution+graph)](https://github.com/cloudcompile)
+
+</div>
+
+<br/>
+
+---
+
+### ⬡ Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=cloudcompile&theme=midnight-purple&hide_border=true&background=050510&stroke=6d28d9&ring=c084fc&fire=818cf8&currStreakLabel=c084fc&sideLabels=818cf8&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0&border_radius=8" width="65%"/>
+
+</div>
+
+<br/>
 
 ---
 
 <br/>
 
-## ⬡ Activity
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudcompile&bg_color=0d0d1a&color=818cf8&line=6d28d9&point=c084fc&area=true&area_color=1a0533&hide_border=true&radius=6)](https://github.com/cloudcompile)
-
-</div>
-
----
+<details>
+<summary><b>🌸 unlock: anime mode</b></summary>
 
 <br/>
-
-<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   currently somewhere between "it works"            │
-│   and "i have no idea why it works"                 │
-│                                                     │
-│   ── building in public, shipping in private        │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+「どんなに辛くても、前に進め。それが強さだ。」
+  — no matter how painful, move forward. that's strength.
+  
+  watching: Frieren: Beyond Journey's End
+  on deck:  Medalist S2 (please)
+  goat:     Gojo Satoru (non-negotiable)
+  comfort:  Sword Art Online (yes, unironically)
+```
+
+> frieren taught me that time spent building something good
+> is never wasted, even if no one notices right away
+
+</details>
+
+<details>
+<summary><b>🎮 unlock: gamer mode</b></summary>
+
+<br/>
+
+```
+currently exploring:  Hyrule (for the 3rd time, different angle)
+favorite memory:      first time I climbed a Divine Beast in BOTW
+hot take:             TOTK's Ultrahand > any other game mechanic
+build style:          chaotic but it works somehow
+```
+
+</details>
+
+<details>
+<summary><b>⚡ unlock: dev confessions</b></summary>
+
+<br/>
+
+```python
+# real ones will relate
+
+things_I_have_said = [
+    "it works on my machine",
+    "just one more console.log",
+    "I'll clean this up later",  # narrator: he did not
+    "this is a 5 minute fix",   # (4 hours later)
+    "why is fetch() doing that",
+    "ngrok is down again isn't it",
+    "the Docker container just... vibes",
+]
+
+current_mood = "somewhere between 'it works' and 'why does it work'"
+```
+
+</details>
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   if you read this far, you're built different.         │
+│                                                          │
+│   ↯  cloudcompile  ·  building at the edge              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cloudcompile&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS&labelColor=0d0d1a)
+![Profile Views](https://komarev.com/ghpvc/?username=cloudcompile&style=for-the-badge&color=6d28d9&label=CURIOUS+VISITORS&labelColor=050510)
+![GitHub followers](https://img.shields.io/github/followers/cloudcompile?style=for-the-badge&color=6d28d9&labelColor=050510&label=FOLLOWERS&logo=github&logoColor=c084fc)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b4b,60:1a0533,100:0a0a0f&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0d1b4b,60:1a0533,100:050510&height=140&section=footer&text=keep%20building&fontSize=28&fontColor=6d28d9&fontAlignY=55&reversal=false&animation=fadeIn" width="100%"/>
 
 </div>
