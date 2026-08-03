@@ -120,6 +120,8 @@ interface Developer {
 
 [![FastVM](https://github-readme-stats.vercel.app/api/pin/?username=cloudcompile&repo=fastvm&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0)](https://github.com/cloudcompile/fastvm)
 
+
+[![jsjsjsjdj](https://enter.pollinations.ai)](https://enter.pollinations.ai)
 </td>
 <td align="center" width="33%">
 
