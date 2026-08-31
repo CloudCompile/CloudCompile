@@ -25,11 +25,7 @@
  ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:0f0a2e,50:1a0533,75:0d1b4b,100:050510&height=3&section=header" width="100%"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=↯+building+things+at+the+edge+of+what+works;contributor+%40+Pollinations+·+open-source+AI;FastVM+·+Lumiverse+·+MCPollinations;student+by+day+·+deploying+at+2am;LLMs+·+self-hosted+infra+·+agent+pipelines)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:0d1b4b,50:1a0533,75:0f0a2e,100:050510&height=3&section=footer" width="100%"/>
 
 </div>
 
@@ -69,12 +65,23 @@ interface Developer {
 </td>
 <td width="48%" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudcompile&theme=2077" width="100%"/>
+### `> stats`
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cloudcompile&theme=2077" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cloudcompile&theme=2077&utcOffset=-5" width="49%"/>
-</div>
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│   contributions  → ████████████░░       │
+│   repositories   → ████████░░░░░░       │
+│   pull requests  → █████████░░░░░       │
+│   issues         → ██████░░░░░░░░       │
+│                                         │
+│   powered by caffeine & questionable    │
+│   architectural decisions               │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+No third-party stats cards here. If a service goes down, my profile doesn't get to go down with it. Revolutionary concept, apparently.
 
 </td>
 </tr>
@@ -89,9 +96,9 @@ interface Developer {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloudcompile/cloudcompile/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cloudcompile/cloudcompile/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cloudcompile/cloudcompile/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CloudCompile/CloudCompile/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CloudCompile/CloudCompile/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CloudCompile/CloudCompile/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -104,48 +111,48 @@ interface Developer {
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**🔧 FastVM**  
+### 🔧 FastVM
 `author · maintainer`
 
-A Linux desktop streaming platform built around Docker, KasmVNC, and fast deployment. Run a full desktop in your browser with minimal setup.
+A Linux desktop streaming platform built around Docker and KasmVNC. Run a full desktop in your browser with minimal setup.
 
-[![FastVM](https://github-readme-stats.vercel.app/api/pin/?username=cloudcompile&repo=fastvm&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0)](https://github.com/CloudCompile/fastvm)
+**→ [View FastVM](https://github.com/CloudCompile/fastvm)**
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**🌌 Lumiverse**  
+### 🌌 Lumiverse
 `contributor · builder`
 
 A full-stack AI chat platform with a real-time event bus, LLM pipeline, extension runtime, encrypted secrets, and native Bun infrastructure.
 
-[![Lumiverse](https://github-readme-stats.vercel.app/api/pin/?username=CloudCompile&repo=Lumiverse&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=818cf8&text_color=e2e8f0)](https://github.com/CloudCompile/Lumiverse)
+**→ [View Lumiverse](https://github.com/CloudCompile/Lumiverse)**
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**🌻 Pollinations**  
+### 🌻 Pollinations
 `contributor · power user`
 
-Open-source generative AI infrastructure. I've contributed across the chat app, media APIs, model integrations, tooling, and app ecosystem.
+Open-source generative AI infrastructure. Contributions span the chat app, media APIs, model integrations, tooling, and app ecosystem.
 
-[![Pollinations](https://github-readme-stats.vercel.app/api/pin/?username=CloudCompile&repo=pollinations&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0)](https://github.com/CloudCompile/pollinations)
+**→ [View Pollinations](https://github.com/pollinations/pollinations)**
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**🔌 MCPollinations**  
+### 🔌 MCPollinations
 `author · maintainer`
 
-An MCP server that connects AI assistants to Pollinations for image, text, audio, video, embeddings, model discovery, and account tooling.
+An MCP server connecting AI assistants to Pollinations for image, text, audio, video, embeddings, model discovery, and account tooling.
 
-[![MCPollinations](https://github-readme-stats.vercel.app/api/pin/?username=CloudCompile&repo=MCPollinations&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0)](https://github.com/CloudCompile/MCPollinations)
+**→ [View MCPollinations](https://github.com/CloudCompile/MCPollinations)**
 
 </td>
 </tr>
@@ -167,12 +174,12 @@ An MCP server that connects AI assistants to Pollinations for image, text, audio
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=c084fc)
 ![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=818cf8)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=for-the-badge&logo=html5&logoColor=c084fc)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=for-the-badge&logo=css3&logoColor=818cf8)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=for-the-badge&logo=css&logoColor=818cf8)
 ![Bash](https://img.shields.io/badge/Bash-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c084fc)
 
 **↯ runtimes & frameworks**
 
-![Bun](https://img.shields.io/badge/Bun-0d0d1a?style=for-the-badge&logo=bun&logoColor=c084cf)
+![Bun](https://img.shields.io/badge/Bun-0d0d1a?style=for-the-badge&logo=bun&logoColor=c084fc)
 ![React](https://img.shields.io/badge/React-0d0d1a?style=for-the-badge&logo=react&logoColor=818cf8)
 ![Hono](https://img.shields.io/badge/Hono-0d0d1a?style=for-the-badge&logo=hono&logoColor=c084fc)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=for-the-badge&logo=nodedotjs&logoColor=818cf8)
@@ -199,33 +206,7 @@ An MCP server that connects AI assistants to Pollinations for image, text, audio
 
 ---
 
-### ⬡ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudcompile&bg_color=050510&color=818cf8&line=6d28d9&point=c084fc&area=true&area_color=1a0533&hide_border=true&radius=6&custom_title=cloudcompile%27s+contribution+graph)](https://github.com/cloudcompile)
-
-</div>
-
-<br/>
-
----
-
-### ⬡ Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=cloudcompile&theme=midnight-purple&hide_border=true&background=050510&stroke=6d28d9&ring=c084fc&fire=818cf8&currStreakLabel=c084fc&sideLabels=818cf8&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0&border_radius=8" width="65%"/>
-
-</div>
-
-<br/>
-
----
-
 ### ⬡ Recent Open-Source Work
-
-<div align="center">
 
 ```text
 pollinations/pollinations
@@ -236,10 +217,6 @@ pollinations/pollinations
   ✓ Repo-link fallback for the app ecosystem
   ✓ Chat toolchain fixes and code-canvas work
 ```
-
-</div>
-
-<br/>
 
 ---
 
